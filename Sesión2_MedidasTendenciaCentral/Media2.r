@@ -1,0 +1,10 @@
+print("buenos dias")
+#hola
+x <- c(10, 6, 7, 8)
+print(x)
+z <-sum(x)
+print(z)
+y <- length(x)
+print(y)
+media <- (z/y)
+print(paste("la media es:", media))
