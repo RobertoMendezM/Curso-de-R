@@ -18,4 +18,4 @@ for(i in datos){
 
 media_Geometrica <- producto**(1/n)
 
-print(paste("La media Geometrica es:", media_Geometrica))
+print(paste("La media Geométrica es:", media_Geometrica))
