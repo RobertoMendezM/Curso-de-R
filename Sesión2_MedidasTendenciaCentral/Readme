@@ -1,5 +1,5 @@
 En este directorio se implementan los pragramas para obtener lasa medidas de tendencia centra básicas
 
-CÓDIGOS REVISADOS: moda.R, mediana.R, mediaAritmetica.R
+CÓDIGOS REVISADOS: moda.R, mediana.R, media_Aritmetica.R, media_Geometrica.R, media_Armonica.R.
 
 NOTA: R ya implementa varias de estas, pero el objetivo del curso es que el alumno programe los algoritmos.
